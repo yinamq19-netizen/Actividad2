@@ -74,6 +74,7 @@ prueba_adres_2/
 ---
 
 ## Ejecución
+```
 
 1. Coloca tus **facturas en PDF** dentro de la carpeta `pdfs`.  
 2. Desde la terminal, ejecuta:  
