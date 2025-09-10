@@ -69,7 +69,7 @@ Actividad2/
 │── imagen/          # Capturas de funcionamiento
 │── facturas.db      # Base de datos SQLite (se crea al ejecutar el script)
 │── requirements.txt # Dependencias
-
+```
 
 ---
 
