@@ -62,7 +62,7 @@ SQLite está integrado en Python, por lo que no es necesario instalar nada adici
 ## Estructura de Archivos
 
 ```
-prueba_adres_2/
+Actividad2/
 │── consulta_interactiva.py          # Script principal
 │── extraer_cufe.py     # Funciones auxiliares
 │── pdfs/      # Carpeta con facturas de ejemplo en PDF
