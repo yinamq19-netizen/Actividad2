@@ -74,15 +74,16 @@ Actividad2/
 ---
 
 ## Ejecución
-```
 
-1. Coloca tus **facturas en PDF** dentro de la carpeta `pdfs`.  ```
+```
+1. Coloca tus **facturas en PDF** dentro de la carpeta `pdfs`.  
 2. Desde la terminal, ejecuta:  
    ```bash
    python main.py
+   ```  
 3. El script recorrerá cada archivo, extraerá los datos solicitados y los guardará en `facturas.db`.  
 4. Si un documento ya existe en la base de datos, se solicitará confirmación antes de reemplazar los registros previos.  
-
+```
 ---
 
 ## Ejemplo Visual
