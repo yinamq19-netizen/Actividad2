@@ -76,7 +76,7 @@ Actividad2/
 ## Ejecución
 ```
 
-1. Coloca tus **facturas en PDF** dentro de la carpeta `pdfs`.  
+1. Coloca tus **facturas en PDF** dentro de la carpeta `pdfs`.  ```
 2. Desde la terminal, ejecuta:  
    ```bash
    python main.py
