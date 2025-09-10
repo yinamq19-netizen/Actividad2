@@ -1,0 +1,2 @@
+instalar libreria PyPDF2
+instalar version de python 3.13
